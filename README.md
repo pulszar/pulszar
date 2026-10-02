@@ -8,7 +8,7 @@ I'm a computer science student interested in cloud & backend
 - Exploring **Azure and backend concepts**
 
 ### Tech
-`Azure` · `JavaScript` · `FastAPI` · `Python` · `Terraform` · `Git`
+`Azure` · `FastAPI` · `Python` · `Terraform` · `Git` · `JavaScript` · `HTML` · `Linux` · `Docker` · `PowerShell`
 
 ### Find me
 [LinkedIn](https://linkedin.com/in/mattson-luke) · [Email](mailto:lukemattson03@gmail.com)
